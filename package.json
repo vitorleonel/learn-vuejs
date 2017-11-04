@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/vitorleonel/learn-vuejs/issues"
   },
-  "homepage": "https://github.com/vitorleonel/learn-vuejs#readme"
+  "homepage": "https://github.com/vitorleonel/learn-vuejs#readme",
+  "devDependencies": {
+    "vue": "^2.5.3"
+  }
 }
