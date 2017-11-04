@@ -1,0 +1,22 @@
+{
+  "name": "learn-vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorleonel/learn-vuejs.git"
+  },
+  "keywords": [
+    "vuejs",
+    "javascript"
+  ],
+  "author": "Vitor Leonel <falecom@vitorleonel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorleonel/learn-vuejs/issues"
+  },
+  "homepage": "https://github.com/vitorleonel/learn-vuejs#readme"
+}
